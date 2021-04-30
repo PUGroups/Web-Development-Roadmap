@@ -1,5 +1,7 @@
-# Web Development Roadmap
-![interactive-presentation-header-1](https://user-images.githubusercontent.com/71369943/116653013-fa5b8f80-a9a3-11eb-8074-751c45435b9d.gif)
+<H1 align="center"> Web Development Roadmap</H1>
+
+![17872747d913f0e8](https://user-images.githubusercontent.com/71369943/116653199-4e667400-a9a4-11eb-8fba-d642faa81711.gif)
+
 
 ## [HTML](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [ ] HTML main tags 
